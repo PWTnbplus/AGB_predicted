@@ -1,0 +1,1 @@
+This is a code for biomass prediction. It is currently available for public access, but not open source. If you want to use it, please send an email to my address. My email address: pwt3099863982@gmail.com. Welcome everyone to engage in academic exchanges together.
